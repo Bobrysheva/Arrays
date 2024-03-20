@@ -1,5 +1,5 @@
-package ru.bobrysheva.arrays._main;
-import ru.bobrysheva.arrays.util.*;
+package ru.bobrysheva.arrays1._main;
+import ru.bobrysheva.arrays1.util.*;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.bobrysheva.arrays.util;
+package ru.bobrysheva.arrays1.util;
 
 public class FindEvenNums {
     public static int findEvenNums(int[] arr) {

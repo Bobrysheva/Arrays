@@ -1,4 +1,4 @@
-package ru.bobrysheva.arrays.util;
+package ru.bobrysheva.arrays1.util;
 
 public class FindOddNums {
     public static int findOddNums(int[] arr) {

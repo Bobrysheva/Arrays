@@ -1,4 +1,4 @@
-package ru.bobrysheva.arrays.util;
+package ru.bobrysheva.arrays1.util;
 
 public class CalcDiffer {
     public static int calcDiffer(int[] arr) {

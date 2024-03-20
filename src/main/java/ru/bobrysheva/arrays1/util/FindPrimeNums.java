@@ -1,4 +1,4 @@
-package ru.bobrysheva.arrays.util;
+package ru.bobrysheva.arrays1.util;
 
 public class FindPrimeNums {
     public static int findPrimeNums(int[] arr) {
